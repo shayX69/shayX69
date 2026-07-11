@@ -1,12 +1,12 @@
 <div align="center">
+
 ![Banner](./banner.svg)
+
 # 👋 Hi, I'm Shayan Nasr
 
 ### Software Engineering Student | ASP.NET Core & Web Developer
 
 </div>
-
----
 
 ### 👋 About Me
 - 🎓 Associate Degree student in **Computer Science / Software Engineering**
