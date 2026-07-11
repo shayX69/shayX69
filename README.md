@@ -1,5 +1,5 @@
 <div align="center">
-
+![Banner](./banner.svg)
 # 👋 Hi, I'm Shayan Nasr
 
 ### Software Engineering Student | ASP.NET Core & Web Developer
