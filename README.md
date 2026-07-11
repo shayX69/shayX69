@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Shayan Nasr
 
-### Software Engineering Student | ASP.NET Core & Web Developer
+
 
 </div>
 
